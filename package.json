@@ -1,0 +1,22 @@
+{
+  "name": "odin-testing-practice",
+  "version": "1.0.0",
+  "description": "This is an assignment from The Odin Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gohyongjing/odin-testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gohyongjing/odin-testing-practice/issues"
+  },
+  "homepage": "https://github.com/gohyongjing/odin-testing-practice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.18.2"
+  }
+}
